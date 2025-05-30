@@ -79,17 +79,7 @@ Edit
 - Threads
 - Event Handling
 - Graphics
-
----
-
-## 📷 Screenshots
-*(Add images or GIFs here)*
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Fork the repo and send a pull request.
-
+- 
 ---
 
 ## 📄 License
