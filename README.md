@@ -19,7 +19,7 @@ A classic 2-player **Tic Tac Toe** game where two players take alternate turns. 
 **Technologies:** `Java`, `Swing`, `AWT`, `Event Handling`
 
 
-2. Pong Game (2-Player)
+**2. Pong Game (2-Player)**
 An arcade-style Pong game with two paddles and a bouncing ball. Built with custom game loops and collision detection.
 
 Features:
@@ -35,3 +35,27 @@ Smooth ball-paddle collisions
 Dynamic speed increase on hit
 
 Technologies: Java, Swing, Threads, KeyEvents, Graphics
+
+
+### 3. Flappy Bird (FlappyTom)
+A clone of the original Flappy Bird game. Help the bird navigate between randomly generated pipes.
+
+**Features:**
+- Gravity physics
+- Pipe generation and collision detection
+- Scoring system
+- Game over detection
+- Basic 2D rendering using `Graphics`
+
+---
+
+### 4. Snake Xenzia
+Classic Nokia-style Snake game. Eat apples to grow your snake and avoid crashing into walls or yourself.
+
+**Features:**
+- Random apple spawning
+- Grid-based snake movement
+- Real-time keyboard control
+- Score tracking and Game Over screen
+
+---
