@@ -1,61 +1,96 @@
 # Java Mini Game Projects 🎮
 
-This repository showcases four fun and beginner-friendly **Java-based GUI games** built using **Swing** and **AWT** libraries. Each project demonstrates core Java concepts such as event-driven programming, threading, object-oriented design, and graphical interfaces.
+This repository showcases four fun and beginner-friendly Java-based GUI games built using Swing and AWT libraries. Each project demonstrates core Java concepts such as event-driven programming, threading, object-oriented design, and graphical interfaces.
 
 ---
 
 ## 🕹️ Projects Overview
 
 ### 1. Tic Tac Toe (2-Player)
-A classic 2-player **Tic Tac Toe** game where two players take alternate turns. The game automatically detects a win or draw and highlights the winning tiles.
+Classic 2-player game with win/draw detection.
 
 **Features:**
-- Java Swing GUI with a 3x3 grid layout
-- Random selection of the first player
-- Automatic win detection
-- Player turn indication
+- Java Swing GUI with 3x3 grid layout
+- Random first player
+- Win detection and tile highlights
 - Game lock after win
 
-**Technologies:** `Java`, `Swing`, `AWT`, `Event Handling`
-
-
-**2. Pong Game (2-Player)**
-An arcade-style Pong game with two paddles and a bouncing ball. Built with custom game loops and collision detection.
-
-Features:
-
-Player 1 uses W and S to move the paddle
-
-Player 2 uses UP and DOWN arrow keys
-
-Score tracking and real-time updates
-
-Smooth ball-paddle collisions
-
-Dynamic speed increase on hit
-
-Technologies: Java, Swing, Threads, KeyEvents, Graphics
-
-
-### 3. Flappy Bird (FlappyTom)
-A clone of the original Flappy Bird game. Help the bird navigate between randomly generated pipes.
+### 2. Pong Game (2-Player)
+Arcade-style paddle and ball game.
 
 **Features:**
-- Gravity physics
-- Pipe generation and collision detection
-- Scoring system
-- Game over detection
-- Basic 2D rendering using `Graphics`
+- W/S and Arrow keys control
+- Score tracking
+- Ball-paddle collision logic
+- Dynamic ball speed
 
----
+### 3. FlappyTom (Flappy Bird Clone)
+Navigate a bird between pipes.
+
+**Features:**
+- Gravity and jump physics
+- Pipe generation
+- Score system
+- Game over logic
 
 ### 4. Snake Xenzia
-Classic Nokia-style Snake game. Eat apples to grow your snake and avoid crashing into walls or yourself.
+Nokia-style snake game.
 
 **Features:**
-- Random apple spawning
-- Grid-based snake movement
-- Real-time keyboard control
-- Score tracking and Game Over screen
+- Snake grows on eating apples
+- Real-time controls
+- Collision and game over
 
 ---
+
+## 📋 Prerequisites
+- Java JDK 8 or above
+- Java IDE (IntelliJ, Eclipse) or terminal
+
+---
+
+## 🚀 Getting Started
+1. Clone the repository:
+git clone https://github.com/yourusername/Java-Mini-Games.git
+
+yaml
+Copy
+Edit
+2. Open in your IDE.
+3. Compile and run the main class of any game.
+
+---
+
+## 🎮 Controls
+
+| Game         | Controls                     |
+|--------------|------------------------------|
+| Tic Tac Toe  | Mouse Click                  |
+| Pong         | W/S (Player 1), ↑/↓ (Player 2)|
+| FlappyTom    | Spacebar                     |
+| Snake Xenzia | Arrow Keys                   |
+
+---
+
+## 🛠️ Technologies Used
+- Java
+- Swing
+- AWT
+- Threads
+- Event Handling
+- Graphics
+
+---
+
+## 📷 Screenshots
+*(Add images or GIFs here)*
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Fork the repo and send a pull request.
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
