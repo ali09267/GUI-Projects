@@ -15,7 +15,7 @@ Classic 2-player game with win/draw detection.
 - Win detection and tile highlights
 - Game lock after win
 
-- **Video Display**[Click Here](https://drive.google.com/file/d/19lhwcNB8U1_--RAA71ZZaEJ20XTfxO3r/view?usp=drive_link)
+- **Video Display**  [Click Here](https://drive.google.com/file/d/19lhwcNB8U1_--RAA71ZZaEJ20XTfxO3r/view?usp=drive_link)
 
 ### 2. Pong Game (2-Player)
 Arcade-style paddle and ball game.
@@ -26,7 +26,7 @@ Arcade-style paddle and ball game.
 - Ball-paddle collision logic
 - Dynamic ball speed
 
-- - **Video Display**[Click Here](https://drive.google.com/file/d/1rFPM4hJnsrg9VM8ug7kN7nmK7WK9AZGB/view?usp=drive_link)
+- - **Video Display**  [Click Here](https://drive.google.com/file/d/1rFPM4hJnsrg9VM8ug7kN7nmK7WK9AZGB/view?usp=drive_link)
 
 ### 3. FlappyTom (Flappy Bird Clone)
 Navigate a bird between pipes.
@@ -37,7 +37,7 @@ Navigate a bird between pipes.
 - Score system
 - Game over logic
 
--  **Video Display**[Click Here](https://drive.google.com/file/d/18GoHTX1CBWkC0D6IPQ6XWUafWFiVymQn/view?usp=drive_link)
+-  **Video Display**  [Click Here](https://drive.google.com/file/d/18GoHTX1CBWkC0D6IPQ6XWUafWFiVymQn/view?usp=drive_link)
   
 ---
 ### 4. Snake Xenzia
@@ -48,7 +48,7 @@ Nokia-style snake game.
 - Real-time controls
 - Collision and game over
 
--  **Video Display**[Click Here](https://drive.google.com/file/d/18GoHTX1CBWkC0D6IPQ6XWUafWFiVymQn/view?usp=drive_link)
+-  **Video Display**  [Click Here](https://drive.google.com/file/d/18-8dkk8i8wwE-3X03uAg4BhHNoUojHxt/view?usp=drive_link)
    
 ---
 
